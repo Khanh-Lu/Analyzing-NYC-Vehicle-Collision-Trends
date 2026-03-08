@@ -36,6 +36,10 @@ Part 3: Incident Analysis & Spatial Visualizations
   <img src="https://gpvc.arturio.dev/Khanh-Lu-K17-Unique" alt="Unique Visitors" />
 </div>
 
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKhanh-Lu%2Funique-visitor-counter&count_bg=%2322C122&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=false" alt="Visitors" />
+</div>
+
 ## Project Structure
 
 ```
