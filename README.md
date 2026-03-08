@@ -33,15 +33,11 @@ Part 3: Incident Analysis & Spatial Visualizations
 - **St. Clair College / DAB322-25F-002 CAPSTONE PROJECT 1 Fall 2025 - 002 - 002**
 
 <div align="center">
-  <img src="https://gpvc.arturio.dev/Khanh-Lu-K17-Unique" alt="Unique Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Khanh-Lu-K17-Unique-Analysis&label=UNIQUE%20VISITORS&labelColor=%235b5b5b&countColor=%2322c122&style=flat" />
 </div>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKhanh-Lu%2Funique-visitor-counter&count_bg=%2322C122&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=false" alt="Visitors" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=khanh-lu-analysis-v2026&left_text=Project%20Visitors" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKhanh-Lu%2Fk17-unique-counter-2026&count_bg=%2322C122&title_bg=%23555555&icon=github.svg&title=Unique+Visitors" />
 </div>
 
 ## Project Structure
