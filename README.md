@@ -32,7 +32,7 @@ Part 3: Incident Analysis & Spatial Visualizations
 
 - **St. Clair College / DAB322-25F-002 CAPSTONE PROJECT 1 Fall 2025 - 002 - 002**
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKhanh-Lu%2FBachViet-K17-Enrollment-Performance-Analysis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![](https://komarev.com/ghpvc/?username=Khanh-Lu&color=blue&style=flat-square&label=VISITOR+COUNT)
 
 ## Project Structure
 
