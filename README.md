@@ -32,10 +32,6 @@ Part 3: Incident Analysis & Spatial Visualizations
 
 - **St. Clair College / DAB322-25F-002 CAPSTONE PROJECT 1 Fall 2025 - 002 - 002**
 
-<div align="center">
-  <img src="https://khanh-lu-analysis.goatcounter.com/count?p=/github-readme-unique" alt="Unique Visitors">
-</div>
-
 ## Project Structure
 
 ```
